@@ -27,6 +27,7 @@ Please note that in most instances the software available is not the latest vers
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
 | Autodesk Maya | 2025 | [Download](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual) | Free for educational use. Create an Autodesk account to download and activate your free license. 
+| Autodesk Motionbuilder | 2025 | [Download](https://www.autodesk.com/products/motionbuilder/free-trial) | Free for educational use. Create an Autodesk account to download and activate your free license. 
 | Adobe Substance 3D Painter | 10.0.1 | | Substance Tools are _**free**_ for student use on your own personal computer, this is the version we use within the studio. _(To access substance tools from home you will need to register for a student substance license via their webpage which can be found [here](https://www.substance3d.com/education/).)_
 | Adobe Substance 3D Designer | 14.0.0 | | ''
 | Adobe Substance 3D Sampler | 4.5.1 | | ''
