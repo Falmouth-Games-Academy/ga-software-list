@@ -9,8 +9,8 @@ Please note that in most instances the software available is not the latest vers
 
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
-| Unreal Engine| 5.6 | Via [Epic Games Launcher](https://store.epicgames.com/en-US/download) | We have deployed 5.6.1 in the studio, but any future bugfix releases within 5.6.X will be backwards compatible with this version. You can safely ignore any version mismatch warnings. 
-| Unity | 6000.0.50 | [Download](https://unity.com/releases/editor/whats-new/6000.0.50f1#installs) | We have deployed 6000.0.50 in the studio, but any future bugfix releases within 6000.0.XX will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
+| Unreal Engine| 5.6.1 | Via [Epic Games Launcher](https://store.epicgames.com/en-US/download) | We have deployed 5.6.1 in the studio, but any future bugfix releases within 5.6.X will be backwards compatible with this version. You can safely ignore any version mismatch warnings. 
+| Unity | 6000.0.58f2 | [Download]([https://unity.com/releases/editor/whats-new/6000.0.50f1#installs](https://unity.com/releases/editor/whats-new/6000.0.58f2#notes)) | We have deployed 6000.0.50 in the studio, but any future bugfix releases within 6000.0.XX will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
 | Gamemaker | 2024.13.1.193 | [Download](https://gamemaker.io/en/download) | A simple game engine for making 2D games. Free to use.
 | Godot | 4.4.1 | [Download](https://godotengine.org/download/windows/) | Open source game engine, capable of making both 2D & 3D games. Free to use.
 
