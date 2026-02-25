@@ -48,3 +48,8 @@ Please note that in most instances the software available is not the latest vers
 
 \* [Download](https://www.jetbrains.com/toolbox-app/) Jetbrains Tool box to more easily interact with the JetBrains development suite. 
 
+### Middleware
+
+| App| Version | Link | Notes |
+| ----------- | ----------- |----------- |----------- |
+| Fmod | 2.03.08 | [Download](https://www.fmod.com/download) | Middleware used for implementing audio into your game. Sign up is required for download.
