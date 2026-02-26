@@ -48,7 +48,7 @@ Please note that in most instances the software available is not the latest vers
 
 \* [Download](https://www.jetbrains.com/toolbox-app/) Jetbrains Tool box to more easily interact with the JetBrains development suite. 
 
-### Middleware
+### Audio
 
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
