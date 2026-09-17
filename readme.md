@@ -33,8 +33,8 @@ Please note that in most instances the software available is not the latest vers
 | Adobe Substance 3D Sampler | 6.0.0 | | ''
 | Adobe Full Suite (Photoshop, Premiere etc.) | Latest | | While available for all students to use for free in the GA studios, at-home access requires a paid license. Falmouth University has a deal with Adobe, which allows students to purchase an annual license at a sizeable discount - £64.47/year. _(To purchase the cut-price deal for at-home Adobe access, please click [here](https://softwareregistration.falmouth.ac.uk/).)_
 | ZBrush | 2026.2 | | ZBrush is available via the [Maxon One subscription](https://www.maxon.net/en/educational-licenses), available with an educational discount at £66 for one year.
-| PureRef | 1.11.1 | [Download](https://www.pureref.com/download.php) | PureRef is free to download from their website.
-| Marmoset Toolbag | 5.01 | [Download](https://marmoset.co/posts/marmoset-toolbag-5-official-release/#dltoolbag) | Suite of 3d asset creation and viewing/presenting tools. Has a free trial but is other wise a subscription based software license. This is best accessed via the machines in the studio.
+| PureRef | 2.1.3 | [Download](https://www.pureref.com/download.php) | PureRef is free to download from their website.
+| Marmoset Toolbag | 5.02 | [Download](https://marmoset.co/posts/marmoset-toolbag-5-official-release/#dltoolbag) | Suite of 3d asset creation and viewing/presenting tools. Has a free trial but is other wise a subscription based software license. This is best accessed via the machines in the studio.
 
 ### Computing and Robotics
 
@@ -52,4 +52,4 @@ Please note that in most instances the software available is not the latest vers
 
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
-| Fmod | 2.03.08 | [Download](https://www.fmod.com/download) | Middleware used for implementing audio into your game. Sign up is required for download.
+| Fmod | 2.03.14 | [Download](https://www.fmod.com/download) | Middleware used for implementing audio into your game. Sign up is required for download.
